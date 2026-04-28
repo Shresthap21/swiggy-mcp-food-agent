@@ -1,5 +1,3 @@
-# swiggy-mcp-food-agent
-
 # AI Group Lunch Planner (Swiggy MCP)
 
 This project is an AI-powered group food ordering agent built using Swiggy MCP APIs.
